@@ -1,9 +1,9 @@
 def my_hash
   your_hash = {
   
-  "Eugene" => 26
+  'Eugene' => 26
 end
-  "Kaelyn" => 23
+  'Kaelyn' => 23
 end
 }
 end
