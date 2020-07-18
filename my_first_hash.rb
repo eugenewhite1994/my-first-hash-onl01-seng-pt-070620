@@ -1,12 +1,11 @@
 def my_hash
   
-your_hash {
+your_hash = {
   
   "name" => "Eugene"
-  "Eugene" => 26
-  "Kaelyn" => 23
+  "Eugene" => 26,
+  "Kaelyn" => 23,
 }
-end
 end
 
 
