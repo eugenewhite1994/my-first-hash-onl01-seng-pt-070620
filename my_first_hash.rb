@@ -1,13 +1,11 @@
-def my_hash
-  your_hash = {
-  
-  'Eugene' => 26
-end
-  'Kaelyn' => 23
-end
-}
-end
 
+def my_hash 
+   your_hash = {
+    "Jack" => 10,
+    "Jill" => 12,
+    "Bob" => 14
+  }
+end
 def my_hash 
    your_hash = {
     "Jack" => 10,
