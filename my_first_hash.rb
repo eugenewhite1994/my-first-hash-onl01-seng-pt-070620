@@ -1,13 +1,19 @@
 def my_hash
-  
-your_hash = {
+  your_hash = {
   
   "name" => "Eugene"
   "Eugene" => 26,
-  "Kaelyn" => 23,
+  "Kaelyn" => 23
 }
 end
 
+def my_hash 
+   your_hash = {
+    "Jack" => 10,
+    "Jill" => 12,
+    "Bob" => 14
+  }
+end
 
 def shipping_manifest
   # set a variable called `the_manifest`, equal to a hash
