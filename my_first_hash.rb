@@ -3,9 +3,6 @@ def my_hash
   "Eugene" => 26
   "Kaelyn" => 23
 end
-   
-
-  
 end
 
 
