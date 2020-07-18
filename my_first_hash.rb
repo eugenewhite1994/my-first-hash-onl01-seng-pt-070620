@@ -3,8 +3,6 @@ def my_hash
   
   "Eugene" => 26
 end
-  "Eugene" => 26,
-end
   "Kaelyn" => 23
 end
 }
