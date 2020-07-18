@@ -2,8 +2,11 @@ def my_hash
   your_hash = {
   
   "name" => "Eugene"
+end
   "Eugene" => 26,
+end
   "Kaelyn" => 23
+end
 }
 end
 
