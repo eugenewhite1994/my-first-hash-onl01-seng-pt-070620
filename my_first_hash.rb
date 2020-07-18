@@ -1,5 +1,8 @@
 def my_hash
   "name" => "Eugene"
+  "Eugene" => 26
+  "Kaelyn" => 23
+end
    
 
   
